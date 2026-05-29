@@ -1,5 +1,8 @@
-# Beelingua-Grammar-Answers
+# Beelingua Answers
 Binus Beelingua
+
+Tips to do reading exercise: 
+If you see a multiple question, just click all of it until the answer is locked and wont change
 
 Quick way to do grammar:
 (This method should work on the vocab activity)
