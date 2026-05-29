@@ -7,6 +7,8 @@ If you see a multiple question, just click all of it until the answer is locked 
 Quick way to do grammar:
 (This method should work on the vocab activity)
 
+!! Tested on B2.2 and it's working well.However, other than B2.2 has not been tested yet !!
+
 1. Enter the grammar section
 2. Press F12 on your keyboard
 3. Press Ctrl+F 
