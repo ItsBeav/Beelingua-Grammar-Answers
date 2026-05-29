@@ -1,5 +1,5 @@
 # Beelingua-Grammar-Answers
-I dont want to do beelingua :(((
+Binus Beelingua
 
 Quick way to do grammar:
 (This method ONLY works in GRAMMAR activity)
