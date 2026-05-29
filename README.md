@@ -2,7 +2,7 @@
 Binus Beelingua
 
 Quick way to do grammar:
-(This method ONLY works in GRAMMAR activity)
+(This method should work on the vocab activity)
 
 1. Enter the grammar section
 2. Press F12 on your keyboard
